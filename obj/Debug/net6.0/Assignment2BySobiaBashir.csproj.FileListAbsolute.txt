@@ -1,0 +1,15 @@
+C:\Users\sobia\source\repos\Assignment2BySobiaBashir\obj\Debug\net6.0\Assignment2BySobiaBashir.csproj.AssemblyReference.cache
+C:\Users\sobia\source\repos\Assignment2BySobiaBashir\obj\Debug\net6.0\Assignment2BySobiaBashir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sobia\source\repos\Assignment2BySobiaBashir\obj\Debug\net6.0\Assignment2BySobiaBashir.AssemblyInfoInputs.cache
+C:\Users\sobia\source\repos\Assignment2BySobiaBashir\obj\Debug\net6.0\Assignment2BySobiaBashir.AssemblyInfo.cs
+C:\Users\sobia\source\repos\Assignment2BySobiaBashir\obj\Debug\net6.0\Assignment2BySobiaBashir.csproj.CoreCompileInputs.cache
+C:\Users\sobia\source\repos\Assignment2BySobiaBashir\bin\Debug\net6.0\Assignment2BySobiaBashir.exe
+C:\Users\sobia\source\repos\Assignment2BySobiaBashir\bin\Debug\net6.0\Assignment2BySobiaBashir.deps.json
+C:\Users\sobia\source\repos\Assignment2BySobiaBashir\bin\Debug\net6.0\Assignment2BySobiaBashir.runtimeconfig.json
+C:\Users\sobia\source\repos\Assignment2BySobiaBashir\bin\Debug\net6.0\Assignment2BySobiaBashir.dll
+C:\Users\sobia\source\repos\Assignment2BySobiaBashir\bin\Debug\net6.0\Assignment2BySobiaBashir.pdb
+C:\Users\sobia\source\repos\Assignment2BySobiaBashir\obj\Debug\net6.0\Assignment2BySobiaBashir.dll
+C:\Users\sobia\source\repos\Assignment2BySobiaBashir\obj\Debug\net6.0\refint\Assignment2BySobiaBashir.dll
+C:\Users\sobia\source\repos\Assignment2BySobiaBashir\obj\Debug\net6.0\Assignment2BySobiaBashir.pdb
+C:\Users\sobia\source\repos\Assignment2BySobiaBashir\obj\Debug\net6.0\Assignment2BySobiaBashir.genruntimeconfig.cache
+C:\Users\sobia\source\repos\Assignment2BySobiaBashir\obj\Debug\net6.0\ref\Assignment2BySobiaBashir.dll
